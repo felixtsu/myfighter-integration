@@ -1,0 +1,37 @@
+{
+    "name": "MyFighter.Integration.Alpha",
+    "version": "0.1.5",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "MyFighter.DLC.Ghost": "pub:58474-12256-64138-45174",
+        "MyFighter.DLC.Bat": "pub:23062-10508-05566-48268",
+        "MyFighter.DLC.Dragon": "pub:40426-04003-14310-48814",
+        "[yuen]MyFighter.DLC": "pub:52438-00981-96056-33775",
+        "MyFighter.DLC.DreadfulTeacher": "github:felixtsu/myfighter-dlc-dreadfulteacher#v0.1.1",
+        "MyFighter.DLC.Tesla": "pub:11793-94134-25207-83600",
+        "[chuxuan]MyFighter.DLC": "pub:63949-82253-21229-93481",
+        "fightextension": "github:felixtsu/fightextension#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.4.45",
+        "tag": "v1.4.45",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/628e717e680e0728902ef3cc43347b23a3cb327b",
+        "target": "1.4.45",
+        "pxt": "6.12.27",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
