@@ -11,7 +11,7 @@
         "MyFighter.DLC.DreadfulTeacher": "github:felixtsu/myfighter-dlc-dreadfulteacher#v0.1.1",
         "MyFighter.DLC.Tesla": "pub:11793-94134-25207-83600",
         "[chuxuan]MyFighter.DLC": "pub:63949-82253-21229-93481",
-        "fightextension": "github:felixtsu/fightextension#master"
+        "fightextension": "github:cubicbird/fightextension"
     },
     "files": [
         "main.blocks",
